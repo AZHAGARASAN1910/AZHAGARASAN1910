@@ -34,6 +34,25 @@
 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 
+## 👨‍💻🚀Projects
+### 1) SQL Project
+ # 🗂️ SQL Project – E-Commerce Customer Churn Analysis
+Customer churn analysis in e-commerce is a critical process that enables businesses to identify why users stop using their services. By uncovering churn patterns through SQL queries, this project helps design retention strategies to improve customer satisfaction and business performance.[🔍 SQL Project – E-Commerce Customer Churn Analysis](https://github.com/AZHAGARASAN1910/SQLPROJECT/blob/main/project.sql)
+
+
+### 2) ML Project
+# 🎬 Audience Rating Prediction using Machine Learning
+A machine learning project to predict movie audience ratings (Rotten Tomatoes) using features such as genre, cast, director, runtime, release year, and critic scores. The goal is to understand which factors influence audience perception and to build predictive models that estimate the audience rating before or shortly after a movie's release. This can help producers, platforms, and marketers make informed decisions regarding promotion strategies, content investment, and target audience segmentation.
+
+The project explores both regression (predicting a numerical score from 0 to 100) and classification (grouping movies into categories like "Low", "Medium", and "High" rating) techniques. Multiple algorithms were implemented, including Linear Regression, Random Forest, XGBoost, and Neural Networks, each evaluated using appropriate metrics like R² score, RMSE, accuracy, and F1-score.
+
+After model comparison, XGBoost Classifier provided the best classification results with an F1-score of 0.90 and accuracy of 91%, while the XGBoost Regressor showed strong performance with R² score of 0.82. The project also includes data preprocessing, feature engineering, visualizations, and a breakdown of model insights, offering a complete end-to-end machine learning pipeline for movie rating prediction.
+
+🚀 **Best Model**: XGBoost Classifier  
+🎯 **F1 Score**: 0.90 | **Accuracy**: 91%  
+📈 **Use Case**: Predict audience reception before release and support data-driven decisions in media.
+🔗 [View Audience Rating Prediction ](https://github.com/AZHAGARASAN1910/ML-PROJECT/blob/main/Audience%20Rating%20Predict.ipynb)
+
 
 
 
