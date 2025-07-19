@@ -4,7 +4,7 @@
 - 👀 I’m interested in Data Analyst and Data Scientist
 - 🌱 I’m currently learning Natural Language Processing
 - 🎓 M.Sc. in Statistics with Computer Application (2024)  
--💡 Aspiring Data Scientist with a passion for Machine Learning and Analytics  
+- 💡 Aspiring Data Scientist with a passion for Machine Learning and Analytics  
 - 📫 Email: azhagarasana2@gmail.com
 
  ## 🔗Connect with me
