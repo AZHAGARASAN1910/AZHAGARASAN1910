@@ -35,9 +35,9 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 
 ## 💻Technical Skills
-I am proficient in Pythonand SQL, and have hands-on experience with analytical tools such as Power BI, Excel, SPSS, Minitab, and Statistica. My core strengths lie in data collection, data cleaning, outlier detection, exploratory data analysis (EDA), and data visualization, enabling efficient handling and analysis of large-scale datasets.
+I am proficient in Python and SQL, and have hands-on experience with analytical tools such as Power BI, Excel, SPSS, Minitab, and Statistica. My core strengths lie in data collection, data cleaning, outlier detection, exploratory data analysis (EDA), and data visualization, enabling efficient handling and analysis of large-scale datasets.
 
-In addition to core data skills, I have a growing interest and practical exposure to Artificial Intelligence (AI), particularly in the areas of Natural Language Processing (NLP), including tasks such as text classification, sentiment analysis, and topic modeling. I apply these techniques to extract insights from unstructured text data and enhance decision-making through intelligent automation.
+In addition to core data skills, I have a growing interest and practical exposure to Artificial Intelligence (AI), particularly in the areas of Neural Language Processing (NLP), including tasks such as text classification, sentiment analysis, and topic modeling. I apply these techniques to extract insights from unstructured text data and enhance decision-making through intelligent automation.
 
 ## 👨‍💻🚀Projects
 ### 1) SQL Project
