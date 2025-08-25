@@ -64,7 +64,7 @@ After model comparison, XGBoost Classifier provided the best classification resu
 ---
 ## 📖 Project Overview  
 
-This project is an **end-to-end data workflow** that connects to the **Harvard Art Museums API**, extracts cultural artifact data, and builds an **interactive dashboard** using **Streamlit**.It demonstrates the full **ETL (Extract, Transform, Load) pipeline** with SQL integration and cultural data analytics.  
+This project is an *end-to-end data workflow* that connects to the *Harvard Art Museums API*, extracts cultural artifact data, and builds an *interactive dashboard* using **Streamlit**.It demonstrates the full **ETL (Extract, Transform, Load) pipeline** with SQL integration and cultural data analytics.  
 ---
 ## ⚙️ Workflow  
 
