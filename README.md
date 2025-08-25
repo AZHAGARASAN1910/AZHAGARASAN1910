@@ -58,13 +58,42 @@ After model comparison, XGBoost Classifier provided the best classification resu
 📈 **Use Case**: Predict audience reception before release and support data-driven decisions in media.
 🔗 [View Audience Rating Prediction ](https://github.com/AZHAGARASAN1910/ML-PROJECT/blob/main/Audience%20Rating%20Predict.ipynb)
 
+### 3) Harvard’s Artifacts Collection
+🔗 **Streamlit App**: [http://localhost:8501/](http://localhost:8501/)  
+📦 **GitHub Repository**: [Harvard’s Artifacts Collection](https://github.com/AZHAGARASAN1910/Harvard-s-Artifacts-Collection)  
+---
+## 📖 Project Overview  
 
+This project is an **end-to-end data workflow** that connects to the **Harvard Art Museums API**, extracts cultural artifact data, and builds an **interactive dashboard** using **Streamlit**.It demonstrates the full **ETL (Extract, Transform, Load) pipeline** with SQL integration and cultural data analytics.  
+---
+## ⚙️ Workflow  
 
+1. **API Integration** → Connect to Harvard’s API and fetch artifact data by classification (Paintings, Sculptures, etc.).  
+2. **JSON Parsing** → Extract fields such as title, culture, century, medium, and colors.  
+3. **Data Transformation & Cleaning** → Handle missing values and standardize attributes.  
+4. **Database Insertion** → Store clean data into MySQL (`artifact_metadata`, `artifact_media`, `artifact_colors`).  
+5. **SQL Queries & Joins** → Run optimized queries for analytics (e.g., top colors, artifacts by period).  
+6. **Streamlit Dashboard** → Interactive tabs for collecting data, migrating to SQL, and exploring queries.  
+---
+## 📝 Key Concepts  
 
+- **API Integration & JSON Parsing**  
+- **Data Extraction, Transformation, Cleaning**  
+- **SQL Database Design & Insertion**  
+- **SQL Joins & Query Optimization**  
+- **ETL Pipelines** (Extract → Transform → Load)  
+- **Streamlit Interactive Dashboards**  
+- **Data Filtering & Pagination**  
+- **Cultural Data Analytics & Museum Informatics**  
+---
+## 🎯 Why This Project Matters  
 
-       
-
-  
+- Enables **exploration of Harvard’s cultural heritage data** through an easy dashboard.  
+- Supports **data-driven cultural analytics** (e.g., popular hues in Byzantine artifacts).  
+- Demonstrates a complete **API → Database → Dashboard pipeline**.  
+- Can be extended for **digital humanities, museum informatics, and cultural archiving**.  
+---
+🚀 Developed with **Python, SQLAlchemy, Pandas, MySQL, and Streamlit**  
 
 <!---
 AZHAGARASAN1910/AZHAGARASAN1910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
