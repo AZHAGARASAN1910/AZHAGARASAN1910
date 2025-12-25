@@ -59,7 +59,7 @@ After model comparison, XGBoost Classifier provided the best classification resu
 🔗 [View Audience Rating Prediction ](https://github.com/AZHAGARASAN1910/ML-PROJECT/blob/main/Audience%20Rating%20Predict.ipynb)
 
 ### 3) Harvard’s Artifacts Collection
-🔗 **Streamlit App**: [http://localhost:8501/](http://localhost:8501/)  
+🔗 **Streamlit App**: [http://localhost:8501/] 
 📦 **GitHub Repository**: [Harvard’s Artifacts Collection](https://github.com/AZHAGARASAN1910/Harvard-s-Artifacts-Collection)  
 ---
 ## 📖 Project Overview  
