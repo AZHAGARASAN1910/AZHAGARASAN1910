@@ -98,3 +98,28 @@ This project is an *end-to-end data workflow* that connects to the *Harvard Art 
 AZHAGARASAN1910/AZHAGARASAN1910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+----
+### 3) Nutrition Paradox: A Global View on Obesity and Malnutrition
+
+📌 **Project Overview**:  
+An end-to-end public health data analytics project that analyzes the global coexistence of obesity and malnutrition using WHO Global Health Observatory (GHO) APIs. The project implements a complete ETL pipeline, integrates SQL for analytical queries, and presents insights through interactive Power BI / Streamlit dashboards.
+
+⚙️ **Workflow**:  
+- Connected to WHO GHO APIs to extract obesity and malnutrition indicators  
+- Parsed JSON responses to extract country, region, year, gender, and estimates  
+- Cleaned and transformed data with feature engineering (Age Group, CI Width, Risk Levels)  
+- Loaded processed data into SQL tables for structured analysis  
+- Executed SQL queries to identify trends, disparities, and reliability patterns  
+- Visualized insights using interactive dashboards
+
+📝 **Key Concepts**:  
+- Public Health API Integration  
+- ETL (Extract, Transform, Load) Pipeline  
+- Data Cleaning & Feature Engineering  
+- SQL Queries & Joins  
+- Exploratory Data Analysis (EDA)  
+- Power BI / Streamlit Visualization  
+
+🔗 **Power BI Dashboard**: https://app.powerbi.com/groups/me/reports/your-report-link  
+🔗 **GitHub Repository**: https://github.com/azhagarasan/nutrition-paradox
+
