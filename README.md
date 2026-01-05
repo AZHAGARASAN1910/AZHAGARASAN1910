@@ -121,5 +121,5 @@ An end-to-end public health data analytics project that analyzes the global coex
 - Power BI / Streamlit Visualization  
 
 🔗 **Power BI Dashboard**: https://app.powerbi.com/groups/me/reports/your-report-link  
-🔗 **GitHub Repository**: https://github.com/azhagarasan/nutrition-paradox
+🔗 **GitHub Repository**: https://github.com/AZHAGARASAN1910/Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition
 
