@@ -8,9 +8,6 @@ I enjoy building practical projects using Python, Machine Learning algorithms, D
 
 ---
 - 🎓 M.Sc. in Statistics with Computer Application (2024)  
-- 💡 Aspiring Data Scientist with a passion for Machine Learning and Analytics  
-- 📫 Email: azhagarasana2@gmail.com
-
  ## 🔗Connect with me
   azhagarasana2@gmail.com | [LinkedIn](https://www.linkedin.com/in/azhagarasan1910/)
 
