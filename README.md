@@ -172,7 +172,9 @@ I enjoy building practical projects using Python, Machine Learning algorithms, D
 </td>
 <td width="50%" valign="top">
 🔗 [GitHub Repository](https://github.com/AZHAGARASAN1910/ML-PROJECT)
-
+</td>
+</tr>
+</table>
 ---
 
 ### 5. Shopper Spectrum – Customer Segmentation
