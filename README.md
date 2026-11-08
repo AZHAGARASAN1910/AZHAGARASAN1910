@@ -79,7 +79,6 @@ I enjoy building practical projects using Python, Machine Learning algorithms, D
 **Feature Extraction**
 - TF-IDF
 - Word Embeddings
-
 </td>
 <td width="50%" valign="top">
 
@@ -110,7 +109,9 @@ I enjoy building practical projects using Python, Machine Learning algorithms, D
 **Objective:** Identify SMS messages as Spam or Ham using NLP and Machine Learning.
 
 **Technologies:** Python, Pandas, NLTK, Scikit-learn
-
+<table>
+<tr>
+<td width="50%" valign="top">
 **Algorithms:**
 - KNN
 - Naive Bayes
@@ -119,10 +120,13 @@ I enjoy building practical projects using Python, Machine Learning algorithms, D
 - Random Forest
 - SVM
 - Voting Classifier
-
+</td>
+<td width="50%" valign="top">
 **Best Model:** Bernoulli Naive Bayes
 - Accuracy: 98.36%
-
+</td>
+</tr>
+</table>
 🔗 [GitHub Repository](https://github.com/AZHAGARASAN1910/AI_ML_Project/tree/main/NLP/SMS_Spam_Classifier)
 
 ---
@@ -131,21 +135,26 @@ I enjoy building practical projects using Python, Machine Learning algorithms, D
 **Objective:** Predict customer churn and classify feedback into Positive, Negative and Neutral sentiments.
 
 **Technologies:** Python, Pandas, Scikit-learn, NLTK, TensorFlow, Keras
-
+<table>
+<tr>
+<td width="50%" valign="top">
 **Module 1 – Customer Churn Prediction**
 - Logistic Regression
 - KNN
 - Random Forest
 - SVM
 - Best Accuracy: 77.64%
-
+</td>
+<td width="50%" valign="top">
 **Module 2 – Customer Feedback Sentiment Prediction**
 - NLP Text Preprocessing
 - RNN and LSTM
 - Three Sentiment Classes
 - RNN Accuracy: 100% (requires independent validation)
 - LSTM Accuracy: 34.83%
-
+</td>
+</tr>
+</table>
 🔗 [GitHub Repository](https://github.com/AZHAGARASAN1910/AI_ML_Project/tree/main/NLP/FINAL%20PROJECT)
 
 ---
@@ -154,11 +163,14 @@ I enjoy building practical projects using Python, Machine Learning algorithms, D
 **Objective:** Predict movie audience ratings using Machine Learning.
 
 **Technologies:** Python, Pandas, Scikit-learn, XGBoost
-
+<table>
+<tr>
+<td width="50%" valign="top">
 - XGBoost Classification F1-Score: 0.90
 - Classification Accuracy: 91%
 - Regression R² Score: 0.82
-
+</td>
+<td width="50%" valign="top">
 🔗 [GitHub Repository](https://github.com/AZHAGARASAN1910/ML-PROJECT)
 
 ---
@@ -167,11 +179,14 @@ I enjoy building practical projects using Python, Machine Learning algorithms, D
 **Objective:** Segment customers using RFM Analysis and K-Means Clustering.
 
 **Technologies:** Python, Pandas, Scikit-learn, K-Means, Streamlit
-
+<table>
+<tr>
+<td width="50%" valign="top">
 - RFM Analysis
 - Customer Segmentation
 - Recommendation System
 - Silhouette Score: 0.6162
-
+</td>
+<td width="50%" valign="top">
 🔗 [GitHub Repository](https://github.com/AZHAGARASAN1910/Segmentation-and-Recommendations)
 
