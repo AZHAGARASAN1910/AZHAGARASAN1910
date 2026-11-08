@@ -65,18 +65,43 @@ I enjoy building practical projects using Python, Machine Learning algorithms, D
 **Objective:** Classify news articles as Fake or Real using NLP and Deep Learning.
 
 **Technologies:** Python, NLTK, Scikit-learn, TensorFlow, Keras
+### 🧠 Techniques & Algorithms
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Techniques:**
-- Text Cleaning and Tokenization
-- Stopword Removal and Lemmatization
-- TF-IDF and Word Embeddings
-- Logistic Regression, RNN and LSTM
+**Text Processing**
+- Text Cleaning
+- Tokenization
+- Stopword Removal
+- Lemmatization
 
-**Best Model:** LSTM
-- Accuracy: 99.11%
-- Precision: 99.52%
-- Recall: 98.83%
-- F1-Score: 99.17%
+**Feature Extraction**
+- TF-IDF
+- Word Embeddings
+
+</td>
+<td width="50%" valign="top">
+
+**Machine Learning**
+- Logistic Regression
+
+**Deep Learning**
+- RNN
+- LSTM
+
+</td>
+</tr>
+</table>
+
+### 🏆 Best Model: LSTM
+
+| Evaluation Metric | Score |
+|---|---:|
+| Accuracy | 99.11% |
+| Precision | 99.52% |
+| Recall | 98.83% |
+| F1-Score | 99.17% |
 
 🔗 [GitHub Repository](https://github.com/AZHAGARASAN1910/AI_ML_Project/tree/main/NLP/Fake%20news%20prediction)
 
