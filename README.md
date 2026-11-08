@@ -163,18 +163,11 @@ I enjoy building practical projects using Python, Machine Learning algorithms, D
 **Objective:** Predict movie audience ratings using Machine Learning.
 
 **Technologies:** Python, Pandas, Scikit-learn, XGBoost
-<table>
-<tr>
-<td width="50%" valign="top">
 - XGBoost Classification F1-Score: 0.90
 - Classification Accuracy: 91%
 - Regression R² Score: 0.82
-</td>
-<td width="50%" valign="top">
 🔗 [GitHub Repository](https://github.com/AZHAGARASAN1910/ML-PROJECT)
-</td>
-</tr>
-</table>
+
 ---
 
 ### 5. Shopper Spectrum – Customer Segmentation
@@ -185,5 +178,6 @@ I enjoy building practical projects using Python, Machine Learning algorithms, D
 - Customer Segmentation
 - Recommendation System
 - Silhouette Score: 0.6162
+  
 🔗 [GitHub Repository](https://github.com/AZHAGARASAN1910/Segmentation-and-Recommendations)
 
