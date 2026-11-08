@@ -25,8 +25,7 @@ I enjoy building practical projects using Python, Machine Learning algorithms, D
 - R
 
 **Data Science & Machine Learning**
-- Pandas, NumPy
-- Matplotlib, Seaborn
+- Pandas, NumPy - Matplotlib, Seaborn
 - Scikit-learn
 - XGBoost
 - Statistical Analysis
