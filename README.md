@@ -17,39 +17,48 @@ I enjoy building practical projects using Python, Machine Learning algorithms, D
 - M.Sc., Statistics With Computer Applications - Bharathiar University (CGPA: 7/10)
 - B.Sc., Statistics - Government Arts College, Kumbakonam (CGPA:63.4/10)
 
- ## 🚀 Technical Skills
+  ## 🛠️ Technical Skills
 
-**Programming Languages**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Programming Languages
 - Python
 - SQL
 - R
 
-**Data Science & Machine Learning**
-- Pandas, NumPy - Matplotlib, Seaborn
+### 📊 Data Science & ML
+- Pandas, NumPy
+- Matplotlib, Seaborn
 - Scikit-learn
 - XGBoost
 - Statistical Analysis
 - Feature Engineering
 - Model Evaluation
 
-**Deep Learning & NLP**
-- TensorFlow
-- Keras
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Deep Learning & NLP
+- TensorFlow, Keras
 - ANN, RNN, LSTM
 - NLP
 - Text Classification
 - TF-IDF
 - Word Embeddings
 
-**Data Visualization & Tools**
-- Power BI
-- Excel
+### 🛠️ Visualization & Tools
+- Power BI, Excel
 - Streamlit
 - Jupyter Notebook
 - VS Code
 - Git & GitHub
 - MySQL
 
+</td>
+</tr>
+</table>
 ---
 
 
