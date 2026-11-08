@@ -59,9 +59,6 @@ I enjoy building practical projects using Python, Machine Learning algorithms, D
 </td>
 </tr>
 </table>
----
-
-
 ## 🚀 Featured AI & Machine Learning Projects
 
 ### 1. Fake News Detection Using NLP and Deep Learning
