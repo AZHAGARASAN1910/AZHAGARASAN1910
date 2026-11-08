@@ -89,11 +89,8 @@ I enjoy building practical projects using Python, Machine Learning algorithms, D
 **Deep Learning**
 - RNN
 - LSTM
-
-</td>
-</tr>
-</table>
-
+  </td>
+<td width="50%" valign="top">
 ### 🏆 Best Model: LSTM
 
 | Evaluation Metric | Score |
@@ -102,7 +99,9 @@ I enjoy building practical projects using Python, Machine Learning algorithms, D
 | Precision | 99.52% |
 | Recall | 98.83% |
 | F1-Score | 99.17% |
-
+</td>
+</tr>
+</table>
 🔗 [GitHub Repository](https://github.com/AZHAGARASAN1910/AI_ML_Project/tree/main/NLP/Fake%20news%20prediction)
 
 ---
