@@ -1,5 +1,5 @@
 - ### 👋 Hi there, I'm Azhagarasan!
-- ![ Alt Text](https://raw.githubusercontent.com/AZHAGARASAN1910/AZHAGARASAN1910/ee4d4643f260d8204f1a656b85be0218bce4f5b0/azhagu%20photo.jpg)
+- ![ Alt Text](https://github.com/AZHAGARASAN1910/AZHAGARASAN1910/blob/main/Professional%20Portrait%20in%20Navy%20Suit.png)
 ### Aspiring AI/ML Engineer | Data Scientist | Machine Learning Enthusiast
 
 I am a Statistics postgraduate passionate about Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Data Science.
