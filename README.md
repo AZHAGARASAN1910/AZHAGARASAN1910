@@ -179,14 +179,9 @@ I enjoy building practical projects using Python, Machine Learning algorithms, D
 **Objective:** Segment customers using RFM Analysis and K-Means Clustering.
 
 **Technologies:** Python, Pandas, Scikit-learn, K-Means, Streamlit
-<table>
-<tr>
-<td width="50%" valign="top">
 - RFM Analysis
 - Customer Segmentation
 - Recommendation System
 - Silhouette Score: 0.6162
-</td>
-<td width="50%" valign="top">
 🔗 [GitHub Repository](https://github.com/AZHAGARASAN1910/Segmentation-and-Recommendations)
 
